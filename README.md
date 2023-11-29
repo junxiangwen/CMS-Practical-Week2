@@ -1,8 +1,8 @@
 # Content Managemnt System Practical Week 2 
 
-Name：Junxiang Wen
-Student ID：14174109
-This is to give brief understanding about my startup business and it is S.M.A.R.T goals, and learning journey for week 2
+ Name：Junxiang Wen
+ Student ID：14174109
+ This is to give brief understanding about my startup business and it is S.M.A.R.T goals, and learning journey for week 2
 
 ## Content Explanation
 ### Explanation about my startup business and its S.M.A.R.T goals
